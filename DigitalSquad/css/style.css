@@ -50,7 +50,7 @@ img{
   top:0;
   left:0;
   width:100%;
-  padding:12px 7%;
+  padding:11px 6%;
   display:flex;
   justify-content:space-between;
   align-items:center;
@@ -61,12 +61,12 @@ img{
 }
 
 .logo img{
-  width:110px;
+  width: 100px;
 }
 
 .nav-links{
   display:flex;
-  gap:25px;
+  gap:20px;
   list-style:none;
 }
 
